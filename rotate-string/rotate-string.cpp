@@ -19,3 +19,7 @@ public:
         return flg;
     }
 };
+
+
+string str = s+s;
+        return str.find(goal) != string::npos;
