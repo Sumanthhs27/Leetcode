@@ -7,8 +7,8 @@ public:
         while(l<=h){
             int mid =l+ ((h-l)>>1);
             if (nums[mid]==target) return mid;
-            if(nums[0]<=nums[mid]){ //left
-                if(target >=nums[0] && target < nums[mid]) h= mid-1;
+            if(nums[l]<=nums[mid]){ //left
+                if(target >=nums[l] && target < nums[mid]) h= mid-1;
                 else l= mid+1;
                 
             }
@@ -18,6 +18,9 @@ public:
             }
         }
         return -1;
+        
+        
+        
     //     int n = nums.size();
     //     int low = 0; 
     //     int high = n-1;
