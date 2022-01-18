@@ -1,2 +1,3 @@
-# C-Codes
-Repository where all CP questions are archived!!
+# Newton-School [DSA]
+
+Assignments and DSA ARENA Q&A
