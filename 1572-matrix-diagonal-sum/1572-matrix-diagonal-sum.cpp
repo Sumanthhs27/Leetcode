@@ -15,3 +15,33 @@ public:
         return count;
     }
 };
+
+
+
+
+class Solution {
+    public int diagonalSum(int[][] mat) {
+        
+        int n = mat.length;
+        int sum = 0;
+        int c =  n-1;
+        
+       for(int r = 0 ; r < n; r++){
+          
+           if(r == c)
+           { 
+               sum += mat[r][c];
+               return sum;
+           }
+           
+           if(r > c)
+              return sum;
+           
+           sum += mat[r][r] + mat[r][c] + mat[c][r] + mat [c][c];
+               
+           c--;
+       }
+        
+        return sum;
+    }
+}
