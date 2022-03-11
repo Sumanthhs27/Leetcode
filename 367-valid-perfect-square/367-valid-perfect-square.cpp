@@ -18,8 +18,7 @@ public:
             else if(mid*mid < num) {
                 l = mid+1;
                 mid = (l+r)/2;
-            }
-            
+            }          
         }
         return l==r;   
     }
