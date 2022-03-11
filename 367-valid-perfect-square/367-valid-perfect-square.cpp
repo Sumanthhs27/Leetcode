@@ -10,7 +10,7 @@ public:
         
         while(l<=r){
             if(mid*mid == num) return true;
-            else if(l*l > num || r*r < num) return false;
+            // else if(l*l > num || r*r < num) return false;
             else if(mid*mid > num){
                 r = mid-1;
                 mid = (l+r)/2;
