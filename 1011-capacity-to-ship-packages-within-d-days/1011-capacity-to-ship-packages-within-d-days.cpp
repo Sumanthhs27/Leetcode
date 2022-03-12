@@ -20,9 +20,7 @@ public:
         
         return true;        
     }
-    
-    
-    
+        
     int shipWithinDays(vector<int>& weights, int days) {
         
         int l = *max_element(weights.begin(), weights.end());
@@ -30,9 +28,7 @@ public:
         for(auto i : weights){
             r += i;
         }
-        
-        cout << isPossible(days,5,weights);
-        
+                
         while(l<r){
             int mid = (l+r)/2;
             
