@@ -2,7 +2,7 @@ class Solution {
 public:
       // Function that returns true if we can ship all containers by using max_weight in 'd' days
     
-    bool isPossible(int d, int max_weight, vector<int> weights){
+    bool isPossible(int d, int max_weight, vector<int> &weights){
         
         int n = weights.size();
         int days = 0;
