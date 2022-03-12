@@ -2,6 +2,9 @@ class Solution {
 public:
     int maxSubArray(vector<int>& nums) {
        
+        
+ //     Prefix Sum method             Can be done by sliding window also
+
         int sum = 0;
         int maxi = INT_MIN;
         
@@ -11,5 +14,6 @@ public:
             maxi = max(maxi,sum);
         }
         return maxi;
+      
     }
 };
