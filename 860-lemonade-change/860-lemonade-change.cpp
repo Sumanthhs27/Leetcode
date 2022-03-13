@@ -7,7 +7,7 @@ public:
         for(int i=0; i<bills.size();i++){
             if(bills[i] == 5) five++;
             else if(bills[i] == 10) ten++;
-            
+            if(bills[i]-5 == 0) continue;
             if(bills[i]-5 == 5){
                 if(five>0) {five--; continue;}
                 else return false;
