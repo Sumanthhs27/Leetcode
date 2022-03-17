@@ -37,7 +37,7 @@ public:
                 if(nums[left] < target) left++;
                 if(nums[left]==target && nums[right]==target)   return {left, right};
             }
-            if(left == right && nums[left]==target) {return {left, right}; }  
+            if(left == right && nums[left]==target) {return {left, right};}  
         }
         return {-1,-1};
     }
