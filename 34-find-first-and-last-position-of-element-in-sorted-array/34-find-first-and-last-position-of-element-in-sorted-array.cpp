@@ -21,7 +21,7 @@ public:
 //         }
 //         return res;
         
-        int left=0, right=nums.size()-1, flag=0;
+        int left=0, right=nums.size()-1;
         
         if(nums.size() == 1 && nums[0]==target) return {0,0};
         
@@ -35,11 +35,10 @@ public:
             else if(nums[mid] == target) {  //if target found, move the end points
                 if(nums[right] > target)  right--;
                 if(nums[left] < target) left++;
-                if(nums[left]==target && nums[right]==target)   {flag=1;break;}
+                if(nums[left]==target && nums[right]==target)   return {left, right};
             }
-            if(left == right && nums[left]==target) {flag=1;break;}  //if range is 1
+            if(left == right && nums[left]==target) {return {left, right}; }  
         }
-        if(flag==1)  return {left, right};
         return {-1,-1};
     }
 };
