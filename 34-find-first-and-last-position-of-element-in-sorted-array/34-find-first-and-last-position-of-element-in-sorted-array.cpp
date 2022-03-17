@@ -25,19 +25,13 @@ public:
             else l = mid+1;
         }
         if(nums[l] == target) res[0] = l;
-        
-        
-        
+               
         l=0; r = nums.size()-1;
         
         while(l<r){
             mid = (l+r)/2;
             
             if(nums[mid] == target){
-                // if(mid==l) {
-                //     res[1] = mid;
-                //     break;
-                // }
                 if(nums[mid+1] > nums[mid]){
                     res[1] = mid;
                     break;
@@ -48,11 +42,7 @@ public:
             else l = mid+1;
         }
         if(nums[r] == target) res[1] = l;
-        
-        
-        
-        
-        
+
         return res;
     }
 };
