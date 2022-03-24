@@ -3,7 +3,8 @@ public:
     int minSubArrayLen(int target, vector<int>& nums) {
         
         
-     ///  THIS IS O(N log n) SOLUTION,  STILL OPTIMIZABLE;    
+     ///  TC -  O( n log n )    SC - O(n)      
+     ///  Ideal   O(n)   
               
         int n = nums.size();
         int mini = INT_MAX;
