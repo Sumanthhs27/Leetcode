@@ -2,6 +2,10 @@ class Solution {
 public:
     int minSubArrayLen(int target, vector<int>& nums) {
         
+        
+     ///  THIS IS O(N log n) SOLUTION,  STILL OPTIMIZABLE;    
+        
+        
         int n = nums.size();
         int mini = INT_MAX;
         vector<int> p_sum (n,0);
@@ -12,11 +16,6 @@ public:
             if(i==0) continue;
             p_sum[i] = p_sum[i-1] + nums[i];
         }
-        
-        for(int i =0; i<n; i++){
-            cout << p_sum[i] << " ";
-        }
-        
         
         for(int i=0; i<n-1; i++){
             int l = i+1, r = n-1;
