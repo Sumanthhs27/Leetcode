@@ -4,8 +4,7 @@ public:
         
         
      ///  THIS IS O(N log n) SOLUTION,  STILL OPTIMIZABLE;    
-        
-        
+              
         int n = nums.size();
         int mini = INT_MAX;
         vector<int> p_sum (n,0);
