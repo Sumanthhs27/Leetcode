@@ -12,10 +12,7 @@ public:
         for(int i=0;i<n;i++){
             diff[i] = costs[i][1] - costs[i][0];
         }
-        for(int i=0;i<n;i++){
-            cout << diff[i] << " " ;
-        }
-        
+
         sort(diff.begin(),diff.end());
         int sumB = 0;
         for(int i=0; i<n/2; i++){
