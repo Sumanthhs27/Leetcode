@@ -1,28 +1,30 @@
 class Solution {
 public:
-     bool isPal(const string& s, int l, int r) {
-        while (l < r)
-        {
-            if (s[l] != s[r]) return false;
-            l++;
-            r--;
+    
+    bool isPalin(string s, int i, int j){
+        while(i<j){
+            if(s[i] != s[j]) return false;
+            else {
+                i++;
+                j--;
+            }
         }
         return true;
     }
     
     bool validPalindrome(string s) {
-        int l = 0;
-        int r = s.size() - 1;
-        while (l < r)
-        {
-            if (s[l] != s[r]) {
-                return (isPal(s, l + 1, r) || isPal(s, l, r - 1));
-            }
-            l++;
-            r--;
+        int n = s.size();
+        int i = 0, j = n-1;
+        
+        if(isPalin(s,i,j) == true) return true;
+        
+        while(i < j){
+           if(s[i] != s[j]){
+               return isPalin(s,i+1,j) || isPalin(s,i,j-1);
+           } 
+            i++;
+            j--;
         }
         return true;
     }
 };
-
-
