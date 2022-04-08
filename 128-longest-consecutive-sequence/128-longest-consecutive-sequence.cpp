@@ -2,6 +2,8 @@ class Solution {
 public:
     int longestConsecutive(vector<int>& nums) {
         
+      //  Optimized Solution 
+        
         unordered_map<int,int> m;
         int count = 1;
         if(nums.size() == 0) return 0;
