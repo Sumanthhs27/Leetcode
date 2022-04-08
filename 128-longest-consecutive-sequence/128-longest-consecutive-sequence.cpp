@@ -22,8 +22,7 @@ public:
                 count = max(count, b);
             }
                       
-        }
-        
+        }        
         return count;
     }
 };
