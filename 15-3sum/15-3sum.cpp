@@ -34,3 +34,4 @@ public:
     }
 };
 
+/* Sort ---> Fix one number --> 2 pointers to find 2 sum --> move i, l & r untill they are not equal to previous number */
