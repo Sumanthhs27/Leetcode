@@ -22,11 +22,8 @@ public:
             else {
                 m[nums[i]]++;
             }
-        }
-        
-        
-       return count; 
-        
+        }        
+       return count;         
     }
 };
 
