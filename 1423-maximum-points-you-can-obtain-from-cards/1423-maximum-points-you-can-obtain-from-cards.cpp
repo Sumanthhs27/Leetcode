@@ -19,7 +19,6 @@ public:
             temp = windowSum - cardPoints[i] + cardPoints[j+1];
             min_windowSum = min(min_windowSum, min(windowSum,temp));
             windowSum = temp;
-            cout << i << " " << j << "         " << temp << endl;
             i++;
             j++;
         }
