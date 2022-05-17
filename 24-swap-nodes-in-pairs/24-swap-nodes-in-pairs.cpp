@@ -9,32 +9,7 @@
  * };
  */
 class Solution {
-public:
-//     ListNode* reverse(ListNode* head){
-//         ListNode* p = head;
-//         ListNode* q = NULL;
-//         ListNode* t;
-//         int cnt = 0;
-        
-//         while(p && cnt < 2){
-//             cnt++;
-//             t = p->next;
-//             p->next = q;
-//             q = p;
-//             p = t;
-//         }
-//         if(p){
-//             ListNode* rest_head = reverse(p);
-//             head->next = rest_head;
-//         }
-        
-//         return q;        
-//     }
-    
-    
-    
-    
-    
+public:  
     ListNode* swapPairs(ListNode* head) {
        ListNode* p = head;
         ListNode* q = NULL;
