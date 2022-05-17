@@ -9,6 +9,23 @@
 class Solution {
 public:
     ListNode *getIntersectionNode(ListNode *headA, ListNode *headB) {
+       
+        ListNode* p = headA;
+        ListNode* q = headB;
+        
+        while(p != q){
+            if(!p) p = headB;
+            else p = p->next;
+            if(!q) q = headA;
+            else q = q->next;
+        }
+        
+        return p;
+        
+    }
+};
+
+/*
         map<ListNode*, int> m;
         ListNode* p = headA;
         
@@ -22,5 +39,6 @@ public:
             else q = q->next;
         }
         return NULL;
-    }
-};
+
+
+*/
