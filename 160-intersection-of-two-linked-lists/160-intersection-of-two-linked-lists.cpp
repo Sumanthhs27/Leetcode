@@ -18,10 +18,8 @@ public:
             else p = p->next;
             if(!q) q = headA;
             else q = q->next;
-        }
-        
-        return p;
-        
+        }        
+        return p;        
     }
 };
 
