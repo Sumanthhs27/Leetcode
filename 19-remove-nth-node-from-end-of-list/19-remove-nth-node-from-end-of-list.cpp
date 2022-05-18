@@ -29,7 +29,7 @@ public:
             }
         }
         if(t) t->next = q->next;
-        else return head->next;
+        else head = head->next;
         
         return head;
     }
