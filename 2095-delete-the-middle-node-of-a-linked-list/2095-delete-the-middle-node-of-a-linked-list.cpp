@@ -18,6 +18,7 @@ public:
             }
         }
         t->next = q->next;
+        delete q;
         return head;
         
     }
