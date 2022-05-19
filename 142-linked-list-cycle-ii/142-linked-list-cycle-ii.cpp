@@ -9,6 +9,27 @@
 class Solution {
 public:
     ListNode *detectCycle(ListNode *head) {
+        ListNode* p = head;
+        
+        while(p){
+            if(!p->next) return NULL;
+            else {
+                if(p->next->val == INT_MAX) return p->next;
+                else p->val = INT_MAX;
+            }
+            p = p->next;
+        }
+        
+        return NULL;
+        
+        
+    }
+};
+
+
+
+
+/*
         map<ListNode*, int> m;
         ListNode* p = head;
         
@@ -21,5 +42,5 @@ public:
             p = p->next;
         }
         return NULL;
-    }
-};
+
+*/
