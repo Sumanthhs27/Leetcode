@@ -14,6 +14,34 @@ public:
                 maxi = max(maxi,cnt);
             }
             else{
+                int temp = m[s[j]] + 1;
+                while(i != temp){
+                    m.erase(s[i++]);
+                    cnt--;
+                }               
+                
+            }
+        }
+        return maxi;
+    }
+};
+
+
+/*
+
+        int cnt = 0;
+        int maxi = 0;
+        map<char,int> m;
+        
+        int i=0, j=0;
+        
+        while(j<s.length()){
+            if(m.find(s[j]) == m.end()){
+                m[s[j++]] = j;
+                cnt++;
+                maxi = max(maxi,cnt);
+            }
+            else{
                 i = m[s[j]] + 1;
                 j = i;
                 m.clear();
@@ -21,5 +49,5 @@ public:
             }
         }
         return maxi;
-    }
-};
+
+*/
