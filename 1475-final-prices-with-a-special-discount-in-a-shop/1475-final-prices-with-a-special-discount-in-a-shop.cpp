@@ -20,8 +20,7 @@ public:
                 }        
                 st.push(t);
             }
-        }
-       
+        }       
         return prices;
     }
 };
