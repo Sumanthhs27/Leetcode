@@ -14,9 +14,7 @@ public:
         subsequences(i+1,N,arr,nums);
         
     }
-
-    
-    
+  
     vector<vector<int>> subsets(vector<int>& nums) {
         vector<int> arr = {};
         subsequences(0,nums.size(),arr,nums);
