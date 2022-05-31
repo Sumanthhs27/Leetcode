@@ -2,7 +2,7 @@ class Solution {
 public:
     vector<vector<int>> res;
     
-    void subsequences(int i, int N, vector<int> arr, vector<int>& nums){
+    void subsequences(int i, int N, vector<int>& arr, vector<int>& nums){
         
         if(i>=N){
             res.push_back(arr);
