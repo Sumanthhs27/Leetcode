@@ -17,7 +17,7 @@ public:
         cout << sum << " " ;
         bool x = hasPathSum(root->left,targetSum);
         bool y = hasPathSum(root->right,targetSum);
-        sum -= root->val;
+        if(!x && !y) sum -= root->val;
         return x || y;
     }
 };
