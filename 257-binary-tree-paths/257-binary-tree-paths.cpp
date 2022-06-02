@@ -19,8 +19,7 @@ public:
         vector<string> res;
         string ans = "";
         if(!root->left && !root->right){
-            ans += to_string(root->val);
-            res.push_back(ans);
+            res.push_back(to_string(root->val));
             return res;
         }     
         ans += to_string(root->val);
