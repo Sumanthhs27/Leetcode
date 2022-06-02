@@ -6,14 +6,10 @@ public:
     bool hasPathSum(TreeNode* root, int targetSum) {     
         if(!root) return false;
         if(!root->left && !root->right) {
-            if(sum + root->val == targetSum){
-                return true;
-            } 
-            else return false;
-        }
-        
+            if(sum + root->val == targetSum)return true;
+            return false;
+        }        
         sum += root->val;
-        cout << sum << " " ;
         bool x = hasPathSum(root->left,targetSum);
         bool y = hasPathSum(root->right,targetSum);
         sum -= root->val;
