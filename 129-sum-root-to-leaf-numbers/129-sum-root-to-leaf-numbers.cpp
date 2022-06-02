@@ -1,7 +1,7 @@
 
 class Solution {
 public:
-    void helper(TreeNode* root, string ans, vector<string>& res){
+    void helper(TreeNode* root, string& ans, vector<string>& res){
         if(!root) return;
         if(!root->left && !root->right){
             ans += to_string(root->val);
@@ -9,8 +9,14 @@ public:
             return;
         }
         ans += to_string(root->val);
-        helper(root->left,ans,res);
-        helper(root->right,ans,res);
+        if(root->left) {
+            helper(root->left,ans,res);
+            ans.pop_back();
+        }
+        if(root->right) {
+            helper(root->right,ans,res);
+            ans.pop_back();
+        }
     }
     
     
