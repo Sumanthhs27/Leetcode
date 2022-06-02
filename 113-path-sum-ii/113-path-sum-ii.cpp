@@ -2,17 +2,24 @@
 class Solution {
 public:
     
-    void helper(TreeNode* root, vector<int> ans, vector<vector<int>>& res,int sum, int targetSum){
+    void helper(TreeNode* root, vector<int>& ans, vector<vector<int>>& res,int sum, int targetSum){
         if(!root) return;
         if(!root->left && !root->right){
             sum += root->val;
-            if(sum == targetSum){ ans.push_back(root->val); res.push_back(ans); }
+            ans.push_back(root->val);
+            if(sum == targetSum){ res.push_back(ans); }
             return;
         }
         sum += root->val;
         ans.push_back(root->val);
-        helper(root->left,ans,res,sum,targetSum);
-        helper(root->right,ans,res,sum,targetSum);
+        if(root->left) {
+            helper(root->left,ans,res,sum,targetSum);
+            ans.pop_back();
+        }
+        if(root->right){
+            helper(root->right,ans,res,sum,targetSum);
+            ans.pop_back();
+        }
     } 
     
     
