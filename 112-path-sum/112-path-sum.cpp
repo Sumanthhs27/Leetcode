@@ -7,7 +7,6 @@ public:
         if(!root) return false;
         if(!root->left && !root->right) {
             if(sum + root->val == targetSum){
-                sum += root->val;
                 return true;
             } 
             else return false;
@@ -17,7 +16,7 @@ public:
         cout << sum << " " ;
         bool x = hasPathSum(root->left,targetSum);
         bool y = hasPathSum(root->right,targetSum);
-        if(!x && !y) sum -= root->val;
+        sum -= root->val;
         return x || y;
     }
 };
