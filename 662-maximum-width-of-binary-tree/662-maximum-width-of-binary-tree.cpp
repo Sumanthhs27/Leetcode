@@ -24,7 +24,6 @@ public:
                 q.pop();
                 
             }
-            cout<< left << " " << right << " " << min << endl;
             q.pop();
             max_width = max(max_width,right-left+1);
         }
