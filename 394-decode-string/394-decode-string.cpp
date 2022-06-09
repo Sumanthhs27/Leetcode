@@ -8,9 +8,8 @@ public:
             if(c != ']') st.push(c);
             else {
                 string t = "";
-                while(st.top() != '['){      
-                    char x = st.top();
-                    t += x;
+                while(st.top() != '['){     
+                    t += st.top();
                     st.pop();
                 }
                 st.pop();
@@ -19,15 +18,8 @@ public:
                     num += st.top();
                     st.pop();
                 }
-                reverse(num.begin(),num.end());
-                
-                int times = stoi(num);
-                
-                // char r = st.top();
-                // int times = r - '0';
-                // st.pop();
-                
-                
+                reverse(num.begin(),num.end());      
+                int times = stoi(num);  
                 while(times != 0){
                     for(int i=t.length()-1; i>=0; i--){
                         st.push(t[i]);
