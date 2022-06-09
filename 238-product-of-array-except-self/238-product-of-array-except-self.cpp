@@ -8,7 +8,7 @@ public:
         }
         int suffix_product = 1;
         for(int i=nums.size()-1; i>=0; i--){  
-            res[i] = res[i]*suffix_product;
+            res[i] *= suffix_product;
             suffix_product *= nums[i];
         }
         return res;
