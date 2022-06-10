@@ -1,1 +1,1 @@
-​
+use indexing used in Segment tree + make sure indexing is 0 or 1 ( i = (i-min)*2 + 1)
