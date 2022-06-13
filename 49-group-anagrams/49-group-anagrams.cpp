@@ -1,6 +1,8 @@
 class Solution {
 public:
     vector<vector<string>> groupAnagrams(vector<string>& strs) {
+        
+    /*  TC - n*k log k    */
         unordered_map<string,vector<string>> m;
         vector<vector<string>> res;
         
