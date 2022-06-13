@@ -5,9 +5,7 @@ public:
     int height(TreeNode*& root){
         if(!root) return 0;
         if(!ans) return 0;
-        
-        cout << root->val << " ";
-        
+                
         int left = height(root->left);
         int right = height(root->right);
         
@@ -22,7 +20,7 @@ public:
     } 
 };
 
-
+ 
 /* 
 
 class Solution {
@@ -45,4 +43,5 @@ public:
         return ans;       
     } 
 };
+
 */
