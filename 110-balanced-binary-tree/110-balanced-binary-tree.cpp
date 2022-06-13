@@ -5,6 +5,9 @@ public:
     int height(TreeNode*& root){
         if(!root) return 0;
         if(!ans) return 0;
+        
+        cout << root->val << " ";
+        
         int left = height(root->left);
         int right = height(root->right);
         
@@ -19,7 +22,8 @@ public:
     } 
 };
 
-/*
+
+/* 
 
 class Solution {
 public:
@@ -29,7 +33,8 @@ public:
         if(!root) return 0;
         if(!ans) return 0;
         
-        if(abs(height(root->left)- height(root->right)) > 1) ans = false;
+        cout << root->val << " ";
+        if(abs(height(root->left) - height(root->right)) > 1) ans = false;
         
         return max(height(root->left), height(root->right)) + 1;
     }    
@@ -40,5 +45,4 @@ public:
         return ans;       
     } 
 };
-
 */
