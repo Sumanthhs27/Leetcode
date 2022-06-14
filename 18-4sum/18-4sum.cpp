@@ -8,13 +8,11 @@ public:
         int sum = 0;
         
         for(int i=0; i<n; ++i){
-            if(i != 0){
-                if(nums[i] == nums[i-1]) continue;
-            }
+            if(i>0 && nums[i] == nums[i-1]) continue;
+         
             for(int j=i+1; j<n-1; ++j){
-                if(j != i+1){
-                    if(nums[j] == nums[j-1]) continue;
-                }
+                if(j>i+1 && nums[j] == nums[j-1]) continue;
+                
                 sum = nums[i] + nums[j];
                 int temp = target - sum;
                 int l = j+1, r = n-1;
