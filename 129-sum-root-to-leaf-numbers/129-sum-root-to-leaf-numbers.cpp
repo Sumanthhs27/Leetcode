@@ -1,7 +1,31 @@
 
 class Solution {
 public:
-    void helper(TreeNode* root, string& ans, vector<string>& res){
+    int res = 0;
+    
+    void helper(TreeNode* r, int sum){
+        if(!r) return;
+        if(!r->left && !r->right){
+            sum = sum*10 + r->val;
+            res += sum;
+            return;
+        }
+        sum = sum*10 + r->val;
+        helper(r->left,sum);
+        helper(r->right,sum);
+    }
+    
+    
+    int sumNumbers(TreeNode* root) {
+        int sum = 0;
+        if(!root->left && !root->right) return root->val;
+        helper(root,sum);
+        return res;      
+    }
+};
+
+/*
+void helper(TreeNode* root, string& ans, vector<string>& res){
         if(!root) return;
         if(!root->left && !root->right){
             ans += to_string(root->val);
@@ -19,8 +43,7 @@ public:
         }
     }
     
-    
-    
+      
     int sumNumbers(TreeNode* root) {
         vector<string> res;
         string ans = "";
@@ -32,5 +55,4 @@ public:
         }
         return result;
         
-    }
-};
+    */
