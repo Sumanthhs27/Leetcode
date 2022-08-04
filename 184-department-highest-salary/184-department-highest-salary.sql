@@ -1,14 +1,13 @@
-# SELECT d.name as Department, e.name as Employee, e.salary 
-# FROM Employee as e, Department as d, 
-#      ( SELECT emp.departmentId as id, max(emp.salary) as max_salary 
-#        FROM employee as emp
-#        GROUP BY emp.departmentId 
-#      ) as T
-# WHERE e.departmentId = d.id AND
-#       e.salary = T.max_salary AND
-#       d.id = T.id
-      
-      
+SELECT d.name as Department, e.name as Employee, e.salary 
+FROM Employee as e, Department as d, 
+     ( SELECT emp.departmentId as id, max(emp.salary) as max_salary 
+       FROM employee as emp
+       GROUP BY emp.departmentId 
+     ) as T
+WHERE e.departmentId = d.id AND
+      e.salary = T.max_salary AND
+      d.id = T.id
+          
       
 # ### 2nd Solution     IMPORTANT CONCEPT
 
@@ -23,14 +22,14 @@
    
 # ### 3rd Solution     SLOWER 
 
-Select Department.Name Department, emp1.Name Employee, emp1.Salary 
-from Employee emp1 
-join Department 
-on emp1.DepartmentId = Department.Id
-where emp1.Salary = (Select Max(Salary) 
-                     from Employee emp2 
-                     where emp2.DepartmentId = emp1.DepartmentId
-                    )
+# Select Department.Name Department, emp1.Name Employee, emp1.Salary 
+# from Employee emp1 
+# join Department 
+# on emp1.DepartmentId = Department.Id
+# where emp1.Salary = (Select Max(Salary) 
+#                      from Employee emp2 
+                    #  where emp2.DepartmentId = emp1.DepartmentId
+                    # )
                      
                      
                      
