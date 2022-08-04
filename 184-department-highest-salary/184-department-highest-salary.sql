@@ -20,7 +20,9 @@
 #   AND (DepartmentId,Salary) in 
 #   (SELECT DepartmentId,max(Salary) as max FROM Employee GROUP BY DepartmentId)
       
-      
+   
+# ### 3rd Solution     SLOWER 
+
 Select Department.Name Department, emp1.Name Employee, emp1.Salary 
 from Employee emp1 
 join Department 
