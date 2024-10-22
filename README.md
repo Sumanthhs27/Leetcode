@@ -45,10 +45,12 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Sumanthhs27/Leetcode/tree/master/0001-two-sum) |
+| [0015-3sum](https://github.com/Sumanthhs27/Leetcode/tree/master/0015-3sum) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Sumanthhs27/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Sumanthhs27/Leetcode/tree/master/0015-3sum) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Sumanthhs27/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## Binary Search
 |  |
@@ -58,4 +60,8 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Sumanthhs27/Leetcode/tree/master/0001-two-sum) |
+## Sorting
+|  |
+| ------- |
+| [0015-3sum](https://github.com/Sumanthhs27/Leetcode/tree/master/0015-3sum) |
 <!---LeetCode Topics End-->
