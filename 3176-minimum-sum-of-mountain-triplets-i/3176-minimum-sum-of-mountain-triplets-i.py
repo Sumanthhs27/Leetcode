@@ -1,18 +1,27 @@
 class Solution:
     def minimumSum(self, nums: List[int]) -> int:
+        n = len(nums)
+        s = [0]*n
+        p = [0]*n
+
+        p[0] = nums[0]
+        s[n-1] = nums[n-1]
+
+        for i in range(1, n):
+            p[i] = min(nums[i], p[i-1])
         
-        res = -1 
 
-        for i in range(len(nums)-2):
-            for j in range(i+1, len(nums)-1):
-                for k in range(j+1, len(nums)):
+        for j in range(n-2, -1, -1):
+            s[j] = min(nums[j], s[j+1])
 
-                    if nums[j] > nums[i] and nums[j] > nums[k]:
-                        sum_ = nums[i] + nums[j] + nums[k]
-
-                        if res < 0:
-                            res = sum_
-                        else:
-                            res = min(res, sum_)
+        print(p)
+        print(s)
+        res = -1
         
+        for i in range(1, n-1):
+            if nums[i] > p[i] and nums[i] > s[i]:
+                if res == -1:
+                    res = nums[i] + s[i] + p[i]
+                else:
+                    res = min(res, nums[i] + s[i] + p[i])
         return res
