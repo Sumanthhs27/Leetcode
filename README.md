@@ -46,6 +46,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Sumanthhs27/Leetcode/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/Sumanthhs27/Leetcode/tree/master/0015-3sum) |
+| [0049-group-anagrams](https://github.com/Sumanthhs27/Leetcode/tree/master/0049-group-anagrams) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Sumanthhs27/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [3176-minimum-sum-of-mountain-triplets-i](https://github.com/Sumanthhs27/Leetcode/tree/master/3176-minimum-sum-of-mountain-triplets-i) |
 ## Two Pointers
@@ -61,14 +62,17 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Sumanthhs27/Leetcode/tree/master/0001-two-sum) |
+| [0049-group-anagrams](https://github.com/Sumanthhs27/Leetcode/tree/master/0049-group-anagrams) |
 ## Sorting
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Sumanthhs27/Leetcode/tree/master/0015-3sum) |
+| [0049-group-anagrams](https://github.com/Sumanthhs27/Leetcode/tree/master/0049-group-anagrams) |
 ## String
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Sumanthhs27/Leetcode/tree/master/0014-longest-common-prefix) |
+| [0049-group-anagrams](https://github.com/Sumanthhs27/Leetcode/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/Sumanthhs27/Leetcode/tree/master/0058-length-of-last-word) |
 ## Trie
 |  |
