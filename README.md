@@ -47,6 +47,7 @@
 | [0001-two-sum](https://github.com/Sumanthhs27/Leetcode/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/Sumanthhs27/Leetcode/tree/master/0015-3sum) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Sumanthhs27/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [3176-minimum-sum-of-mountain-triplets-i](https://github.com/Sumanthhs27/Leetcode/tree/master/3176-minimum-sum-of-mountain-triplets-i) |
 ## Two Pointers
 |  |
 | ------- |
