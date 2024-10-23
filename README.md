@@ -65,4 +65,8 @@
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Sumanthhs27/Leetcode/tree/master/0015-3sum) |
+## String
+|  |
+| ------- |
+| [0058-length-of-last-word](https://github.com/Sumanthhs27/Leetcode/tree/master/0058-length-of-last-word) |
 <!---LeetCode Topics End-->
