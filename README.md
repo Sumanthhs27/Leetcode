@@ -48,6 +48,7 @@
 | [0015-3sum](https://github.com/Sumanthhs27/Leetcode/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/Sumanthhs27/Leetcode/tree/master/0049-group-anagrams) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Sumanthhs27/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [2195-time-needed-to-buy-tickets](https://github.com/Sumanthhs27/Leetcode/tree/master/2195-time-needed-to-buy-tickets) |
 | [3176-minimum-sum-of-mountain-triplets-i](https://github.com/Sumanthhs27/Leetcode/tree/master/3176-minimum-sum-of-mountain-triplets-i) |
 ## Two Pointers
 |  |
@@ -80,4 +81,12 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Sumanthhs27/Leetcode/tree/master/0014-longest-common-prefix) |
+## Queue
+|  |
+| ------- |
+| [2195-time-needed-to-buy-tickets](https://github.com/Sumanthhs27/Leetcode/tree/master/2195-time-needed-to-buy-tickets) |
+## Simulation
+|  |
+| ------- |
+| [2195-time-needed-to-buy-tickets](https://github.com/Sumanthhs27/Leetcode/tree/master/2195-time-needed-to-buy-tickets) |
 <!---LeetCode Topics End-->
