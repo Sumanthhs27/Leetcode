@@ -63,6 +63,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Sumanthhs27/Leetcode/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/Sumanthhs27/Leetcode/tree/master/0049-group-anagrams) |
+| [0205-isomorphic-strings](https://github.com/Sumanthhs27/Leetcode/tree/master/0205-isomorphic-strings) |
 ## Sorting
 |  |
 | ------- |
@@ -74,6 +75,7 @@
 | [0014-longest-common-prefix](https://github.com/Sumanthhs27/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0049-group-anagrams](https://github.com/Sumanthhs27/Leetcode/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/Sumanthhs27/Leetcode/tree/master/0058-length-of-last-word) |
+| [0205-isomorphic-strings](https://github.com/Sumanthhs27/Leetcode/tree/master/0205-isomorphic-strings) |
 ## Trie
 |  |
 | ------- |
