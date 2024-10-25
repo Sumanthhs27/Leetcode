@@ -89,4 +89,8 @@
 |  |
 | ------- |
 | [2195-time-needed-to-buy-tickets](https://github.com/Sumanthhs27/Leetcode/tree/master/2195-time-needed-to-buy-tickets) |
+## Math
+|  |
+| ------- |
+| [0009-palindrome-number](https://github.com/Sumanthhs27/Leetcode/tree/master/0009-palindrome-number) |
 <!---LeetCode Topics End-->
