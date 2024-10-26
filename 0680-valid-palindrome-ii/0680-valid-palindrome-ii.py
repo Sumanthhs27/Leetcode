@@ -27,8 +27,6 @@ class Solution:
                r-=1
                continue
             
-            print(f"s[l+1:r] - {s[l+1:r+1]}")
-            print(f"s[l:r-1] - {s[l:r]}")
             if self.isPalindrome(s[l+1:r+1]):
                 return True
             
