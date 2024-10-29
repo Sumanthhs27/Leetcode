@@ -8,11 +8,9 @@ class Solution:
         res = 1
 
         for i in range(1,n):
-            print(f"comparing {nums[idx]} & {nums[i]} - cnt : {cnt} - idx : {idx}")
             if nums[i] != nums[idx]:
                 idx += 1
                 nums[idx], nums[i] = nums[i], nums[idx]
-                print("swapped")
                 print(nums)
                 res += 1
                 cnt = 1
@@ -23,9 +21,6 @@ class Solution:
                     idx += 1
                     cnt += 1
                     nums[idx], nums[i] = nums[i], nums[idx]
-                    print(nums)
-        
-        print(res)
         return res
                 
 
