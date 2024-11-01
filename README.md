@@ -54,6 +54,7 @@
 | [0219-contains-duplicate-ii](https://github.com/Sumanthhs27/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0283-move-zeroes](https://github.com/Sumanthhs27/Leetcode/tree/master/0283-move-zeroes) |
 | [0455-assign-cookies](https://github.com/Sumanthhs27/Leetcode/tree/master/0455-assign-cookies) |
+| [0682-baseball-game](https://github.com/Sumanthhs27/Leetcode/tree/master/0682-baseball-game) |
 | [0941-sort-array-by-parity](https://github.com/Sumanthhs27/Leetcode/tree/master/0941-sort-array-by-parity) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/Sumanthhs27/Leetcode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [2195-time-needed-to-buy-tickets](https://github.com/Sumanthhs27/Leetcode/tree/master/2195-time-needed-to-buy-tickets) |
@@ -117,6 +118,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0682-baseball-game](https://github.com/Sumanthhs27/Leetcode/tree/master/0682-baseball-game) |
 | [2195-time-needed-to-buy-tickets](https://github.com/Sumanthhs27/Leetcode/tree/master/2195-time-needed-to-buy-tickets) |
 ## Math
 |  |
@@ -139,4 +141,5 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Sumanthhs27/Leetcode/tree/master/0020-valid-parentheses) |
+| [0682-baseball-game](https://github.com/Sumanthhs27/Leetcode/tree/master/0682-baseball-game) |
 <!---LeetCode Topics End-->
