@@ -104,6 +104,7 @@
 | [0205-isomorphic-strings](https://github.com/Sumanthhs27/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0344-reverse-string](https://github.com/Sumanthhs27/Leetcode/tree/master/0344-reverse-string) |
 | [0680-valid-palindrome-ii](https://github.com/Sumanthhs27/Leetcode/tree/master/0680-valid-palindrome-ii) |
+| [1666-make-the-string-great](https://github.com/Sumanthhs27/Leetcode/tree/master/1666-make-the-string-great) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/Sumanthhs27/Leetcode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1894-merge-strings-alternately](https://github.com/Sumanthhs27/Leetcode/tree/master/1894-merge-strings-alternately) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/Sumanthhs27/Leetcode/tree/master/2231-find-first-palindromic-string-in-the-array) |
@@ -142,4 +143,5 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/Sumanthhs27/Leetcode/tree/master/0020-valid-parentheses) |
 | [0682-baseball-game](https://github.com/Sumanthhs27/Leetcode/tree/master/0682-baseball-game) |
+| [1666-make-the-string-great](https://github.com/Sumanthhs27/Leetcode/tree/master/1666-make-the-string-great) |
 <!---LeetCode Topics End-->
