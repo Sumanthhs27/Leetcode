@@ -55,6 +55,7 @@
 | [0283-move-zeroes](https://github.com/Sumanthhs27/Leetcode/tree/master/0283-move-zeroes) |
 | [0455-assign-cookies](https://github.com/Sumanthhs27/Leetcode/tree/master/0455-assign-cookies) |
 | [0682-baseball-game](https://github.com/Sumanthhs27/Leetcode/tree/master/0682-baseball-game) |
+| [0739-daily-temperatures](https://github.com/Sumanthhs27/Leetcode/tree/master/0739-daily-temperatures) |
 | [0941-sort-array-by-parity](https://github.com/Sumanthhs27/Leetcode/tree/master/0941-sort-array-by-parity) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/Sumanthhs27/Leetcode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [2195-time-needed-to-buy-tickets](https://github.com/Sumanthhs27/Leetcode/tree/master/2195-time-needed-to-buy-tickets) |
@@ -143,5 +144,10 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/Sumanthhs27/Leetcode/tree/master/0020-valid-parentheses) |
 | [0682-baseball-game](https://github.com/Sumanthhs27/Leetcode/tree/master/0682-baseball-game) |
+| [0739-daily-temperatures](https://github.com/Sumanthhs27/Leetcode/tree/master/0739-daily-temperatures) |
 | [1666-make-the-string-great](https://github.com/Sumanthhs27/Leetcode/tree/master/1666-make-the-string-great) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/Sumanthhs27/Leetcode/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
