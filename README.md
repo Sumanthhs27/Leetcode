@@ -55,6 +55,7 @@
 | [0219-contains-duplicate-ii](https://github.com/Sumanthhs27/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0283-move-zeroes](https://github.com/Sumanthhs27/Leetcode/tree/master/0283-move-zeroes) |
 | [0455-assign-cookies](https://github.com/Sumanthhs27/Leetcode/tree/master/0455-assign-cookies) |
+| [0503-next-greater-element-ii](https://github.com/Sumanthhs27/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0682-baseball-game](https://github.com/Sumanthhs27/Leetcode/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/Sumanthhs27/Leetcode/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/Sumanthhs27/Leetcode/tree/master/0739-daily-temperatures) |
@@ -154,6 +155,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/Sumanthhs27/Leetcode/tree/master/0020-valid-parentheses) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Sumanthhs27/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0503-next-greater-element-ii](https://github.com/Sumanthhs27/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0682-baseball-game](https://github.com/Sumanthhs27/Leetcode/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/Sumanthhs27/Leetcode/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/Sumanthhs27/Leetcode/tree/master/0739-daily-temperatures) |
@@ -163,6 +165,7 @@
 ## Monotonic Stack
 |  |
 | ------- |
+| [0503-next-greater-element-ii](https://github.com/Sumanthhs27/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/Sumanthhs27/Leetcode/tree/master/0739-daily-temperatures) |
 | [0883-car-fleet](https://github.com/Sumanthhs27/Leetcode/tree/master/0883-car-fleet) |
 <!---LeetCode Topics End-->
