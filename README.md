@@ -50,6 +50,7 @@
 | [0049-group-anagrams](https://github.com/Sumanthhs27/Leetcode/tree/master/0049-group-anagrams) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Sumanthhs27/Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Sumanthhs27/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Sumanthhs27/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Sumanthhs27/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0219-contains-duplicate-ii](https://github.com/Sumanthhs27/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0283-move-zeroes](https://github.com/Sumanthhs27/Leetcode/tree/master/0283-move-zeroes) |
@@ -128,6 +129,7 @@
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Sumanthhs27/Leetcode/tree/master/0009-palindrome-number) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Sumanthhs27/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 ## Greedy
 |  |
 | ------- |
@@ -145,6 +147,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Sumanthhs27/Leetcode/tree/master/0020-valid-parentheses) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Sumanthhs27/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0682-baseball-game](https://github.com/Sumanthhs27/Leetcode/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/Sumanthhs27/Leetcode/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/Sumanthhs27/Leetcode/tree/master/0739-daily-temperatures) |
