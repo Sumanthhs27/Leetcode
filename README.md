@@ -87,6 +87,7 @@
 | ------- |
 | [0035-search-insert-position](https://github.com/Sumanthhs27/Leetcode/tree/master/0035-search-insert-position) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Sumanthhs27/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0374-guess-number-higher-or-lower](https://github.com/Sumanthhs27/Leetcode/tree/master/0374-guess-number-higher-or-lower) |
 | [0792-binary-search](https://github.com/Sumanthhs27/Leetcode/tree/master/0792-binary-search) |
 ## Hash Table
 |  |
@@ -172,4 +173,8 @@
 | [0503-next-greater-element-ii](https://github.com/Sumanthhs27/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/Sumanthhs27/Leetcode/tree/master/0739-daily-temperatures) |
 | [0883-car-fleet](https://github.com/Sumanthhs27/Leetcode/tree/master/0883-car-fleet) |
+## Interactive
+|  |
+| ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/Sumanthhs27/Leetcode/tree/master/0374-guess-number-higher-or-lower) |
 <!---LeetCode Topics End-->
