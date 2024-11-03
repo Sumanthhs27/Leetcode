@@ -88,6 +88,7 @@
 | [0035-search-insert-position](https://github.com/Sumanthhs27/Leetcode/tree/master/0035-search-insert-position) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Sumanthhs27/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0374-guess-number-higher-or-lower](https://github.com/Sumanthhs27/Leetcode/tree/master/0374-guess-number-higher-or-lower) |
+| [0441-arranging-coins](https://github.com/Sumanthhs27/Leetcode/tree/master/0441-arranging-coins) |
 | [0792-binary-search](https://github.com/Sumanthhs27/Leetcode/tree/master/0792-binary-search) |
 ## Hash Table
 |  |
@@ -142,6 +143,7 @@
 | ------- |
 | [0009-palindrome-number](https://github.com/Sumanthhs27/Leetcode/tree/master/0009-palindrome-number) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Sumanthhs27/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0441-arranging-coins](https://github.com/Sumanthhs27/Leetcode/tree/master/0441-arranging-coins) |
 ## Greedy
 |  |
 | ------- |
