@@ -116,6 +116,7 @@
 | [0205-isomorphic-strings](https://github.com/Sumanthhs27/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0344-reverse-string](https://github.com/Sumanthhs27/Leetcode/tree/master/0344-reverse-string) |
 | [0680-valid-palindrome-ii](https://github.com/Sumanthhs27/Leetcode/tree/master/0680-valid-palindrome-ii) |
+| [0812-rotate-string](https://github.com/Sumanthhs27/Leetcode/tree/master/0812-rotate-string) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/Sumanthhs27/Leetcode/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1666-make-the-string-great](https://github.com/Sumanthhs27/Leetcode/tree/master/1666-make-the-string-great) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/Sumanthhs27/Leetcode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
@@ -179,4 +180,8 @@
 |  |
 | ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/Sumanthhs27/Leetcode/tree/master/0374-guess-number-higher-or-lower) |
+## String Matching
+|  |
+| ------- |
+| [0812-rotate-string](https://github.com/Sumanthhs27/Leetcode/tree/master/0812-rotate-string) |
 <!---LeetCode Topics End-->
