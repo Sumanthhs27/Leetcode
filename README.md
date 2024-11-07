@@ -49,6 +49,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Sumanthhs27/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0035-search-insert-position](https://github.com/Sumanthhs27/Leetcode/tree/master/0035-search-insert-position) |
 | [0049-group-anagrams](https://github.com/Sumanthhs27/Leetcode/tree/master/0049-group-anagrams) |
+| [0078-subsets](https://github.com/Sumanthhs27/Leetcode/tree/master/0078-subsets) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Sumanthhs27/Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Sumanthhs27/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Sumanthhs27/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -191,4 +192,12 @@
 |  |
 | ------- |
 | [0812-rotate-string](https://github.com/Sumanthhs27/Leetcode/tree/master/0812-rotate-string) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/Sumanthhs27/Leetcode/tree/master/0078-subsets) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0078-subsets](https://github.com/Sumanthhs27/Leetcode/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
