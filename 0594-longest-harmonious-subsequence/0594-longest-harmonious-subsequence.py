@@ -16,4 +16,5 @@ class Solution:
                 while l < i and nums[l] != nums[i]-1:
                     l+=1
         
+        # Above approach is sliding window based. There is one more approach with Time - O(N) & Space - O(N)
         return res
