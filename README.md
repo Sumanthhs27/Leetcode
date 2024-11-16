@@ -58,6 +58,7 @@
 | [0283-move-zeroes](https://github.com/Sumanthhs27/Leetcode/tree/master/0283-move-zeroes) |
 | [0455-assign-cookies](https://github.com/Sumanthhs27/Leetcode/tree/master/0455-assign-cookies) |
 | [0503-next-greater-element-ii](https://github.com/Sumanthhs27/Leetcode/tree/master/0503-next-greater-element-ii) |
+| [0594-longest-harmonious-subsequence](https://github.com/Sumanthhs27/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0682-baseball-game](https://github.com/Sumanthhs27/Leetcode/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/Sumanthhs27/Leetcode/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/Sumanthhs27/Leetcode/tree/master/0739-daily-temperatures) |
@@ -107,12 +108,14 @@
 | [0049-group-anagrams](https://github.com/Sumanthhs27/Leetcode/tree/master/0049-group-anagrams) |
 | [0205-isomorphic-strings](https://github.com/Sumanthhs27/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0219-contains-duplicate-ii](https://github.com/Sumanthhs27/Leetcode/tree/master/0219-contains-duplicate-ii) |
+| [0594-longest-harmonious-subsequence](https://github.com/Sumanthhs27/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 ## Sorting
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Sumanthhs27/Leetcode/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/Sumanthhs27/Leetcode/tree/master/0049-group-anagrams) |
 | [0455-assign-cookies](https://github.com/Sumanthhs27/Leetcode/tree/master/0455-assign-cookies) |
+| [0594-longest-harmonious-subsequence](https://github.com/Sumanthhs27/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0883-car-fleet](https://github.com/Sumanthhs27/Leetcode/tree/master/0883-car-fleet) |
 | [0941-sort-array-by-parity](https://github.com/Sumanthhs27/Leetcode/tree/master/0941-sort-array-by-parity) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/Sumanthhs27/Leetcode/tree/master/2179-most-beautiful-item-for-each-query) |
@@ -172,6 +175,7 @@
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/Sumanthhs27/Leetcode/tree/master/0219-contains-duplicate-ii) |
+| [0594-longest-harmonious-subsequence](https://github.com/Sumanthhs27/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 ## Stack
 |  |
 | ------- |
@@ -206,4 +210,8 @@
 |  |
 | ------- |
 | [0078-subsets](https://github.com/Sumanthhs27/Leetcode/tree/master/0078-subsets) |
+## Counting
+|  |
+| ------- |
+| [0594-longest-harmonious-subsequence](https://github.com/Sumanthhs27/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 <!---LeetCode Topics End-->
