@@ -103,6 +103,7 @@
 | [0441-arranging-coins](https://github.com/Sumanthhs27/Leetcode/tree/master/0441-arranging-coins) |
 | [0792-binary-search](https://github.com/Sumanthhs27/Leetcode/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/Sumanthhs27/Leetcode/tree/master/0907-koko-eating-bananas) |
+| [1321-get-equal-substrings-within-budget](https://github.com/Sumanthhs27/Leetcode/tree/master/1321-get-equal-substrings-within-budget) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/Sumanthhs27/Leetcode/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/Sumanthhs27/Leetcode/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Sumanthhs27/Leetcode/tree/master/2392-successful-pairs-of-spells-and-potions) |
@@ -144,6 +145,7 @@
 | [0680-valid-palindrome-ii](https://github.com/Sumanthhs27/Leetcode/tree/master/0680-valid-palindrome-ii) |
 | [0812-rotate-string](https://github.com/Sumanthhs27/Leetcode/tree/master/0812-rotate-string) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/Sumanthhs27/Leetcode/tree/master/1302-delete-characters-to-make-fancy-string) |
+| [1321-get-equal-substrings-within-budget](https://github.com/Sumanthhs27/Leetcode/tree/master/1321-get-equal-substrings-within-budget) |
 | [1666-make-the-string-great](https://github.com/Sumanthhs27/Leetcode/tree/master/1666-make-the-string-great) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/Sumanthhs27/Leetcode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1894-merge-strings-alternately](https://github.com/Sumanthhs27/Leetcode/tree/master/1894-merge-strings-alternately) |
@@ -189,6 +191,7 @@
 | [0219-contains-duplicate-ii](https://github.com/Sumanthhs27/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0567-permutation-in-string](https://github.com/Sumanthhs27/Leetcode/tree/master/0567-permutation-in-string) |
 | [0594-longest-harmonious-subsequence](https://github.com/Sumanthhs27/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
+| [1321-get-equal-substrings-within-budget](https://github.com/Sumanthhs27/Leetcode/tree/master/1321-get-equal-substrings-within-budget) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/Sumanthhs27/Leetcode/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/Sumanthhs27/Leetcode/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Sumanthhs27/Leetcode/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -233,5 +236,6 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [1321-get-equal-substrings-within-budget](https://github.com/Sumanthhs27/Leetcode/tree/master/1321-get-equal-substrings-within-budget) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/Sumanthhs27/Leetcode/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 <!---LeetCode Topics End-->
