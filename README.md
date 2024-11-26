@@ -199,6 +199,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Sumanthhs27/Leetcode/tree/master/0020-valid-parentheses) |
+| [0144-binary-tree-preorder-traversal](https://github.com/Sumanthhs27/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Sumanthhs27/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0503-next-greater-element-ii](https://github.com/Sumanthhs27/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0682-baseball-game](https://github.com/Sumanthhs27/Leetcode/tree/master/0682-baseball-game) |
@@ -238,4 +239,16 @@
 | ------- |
 | [1321-get-equal-substrings-within-budget](https://github.com/Sumanthhs27/Leetcode/tree/master/1321-get-equal-substrings-within-budget) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/Sumanthhs27/Leetcode/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
+## Tree
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/Sumanthhs27/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
+## Depth-First Search
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/Sumanthhs27/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/Sumanthhs27/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 <!---LeetCode Topics End-->
