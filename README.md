@@ -265,4 +265,12 @@
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Sumanthhs27/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/Sumanthhs27/Leetcode/tree/master/0226-invert-binary-tree) |
+## Linked List
+|  |
+| ------- |
+| [0025-reverse-nodes-in-k-group](https://github.com/Sumanthhs27/Leetcode/tree/master/0025-reverse-nodes-in-k-group) |
+## Recursion
+|  |
+| ------- |
+| [0025-reverse-nodes-in-k-group](https://github.com/Sumanthhs27/Leetcode/tree/master/0025-reverse-nodes-in-k-group) |
 <!---LeetCode Topics End-->
