@@ -50,6 +50,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Sumanthhs27/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0035-search-insert-position](https://github.com/Sumanthhs27/Leetcode/tree/master/0035-search-insert-position) |
 | [0049-group-anagrams](https://github.com/Sumanthhs27/Leetcode/tree/master/0049-group-anagrams) |
+| [0073-set-matrix-zeroes](https://github.com/Sumanthhs27/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0078-subsets](https://github.com/Sumanthhs27/Leetcode/tree/master/0078-subsets) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Sumanthhs27/Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Sumanthhs27/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -115,6 +116,7 @@
 | [0001-two-sum](https://github.com/Sumanthhs27/Leetcode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Sumanthhs27/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/Sumanthhs27/Leetcode/tree/master/0049-group-anagrams) |
+| [0073-set-matrix-zeroes](https://github.com/Sumanthhs27/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0205-isomorphic-strings](https://github.com/Sumanthhs27/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0219-contains-duplicate-ii](https://github.com/Sumanthhs27/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0567-permutation-in-string](https://github.com/Sumanthhs27/Leetcode/tree/master/0567-permutation-in-string) |
@@ -273,4 +275,8 @@
 |  |
 | ------- |
 | [0025-reverse-nodes-in-k-group](https://github.com/Sumanthhs27/Leetcode/tree/master/0025-reverse-nodes-in-k-group) |
+## Matrix
+|  |
+| ------- |
+| [0073-set-matrix-zeroes](https://github.com/Sumanthhs27/Leetcode/tree/master/0073-set-matrix-zeroes) |
 <!---LeetCode Topics End-->
