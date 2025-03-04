@@ -10,6 +10,7 @@ class Solution:
         cnt = 0
         for num, freq in mp.items():
             max_ = freq//3
+            
             found = False
             for i in range(max_, -1, -1):
                 if self.is_possible(i, freq):
