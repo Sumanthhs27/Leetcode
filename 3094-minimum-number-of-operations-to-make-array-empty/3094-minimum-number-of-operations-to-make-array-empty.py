@@ -8,7 +8,6 @@ class Solution:
         
         mp = Counter(nums)
         cnt = 0
-        print(mp)
         for num, freq in mp.items():
             if freq%3 == 0:
                 cnt += freq//3
@@ -16,7 +15,6 @@ class Solution:
             else:
                 max_ = freq//3
                 found = False
-                print(f"freq: {freq}, max_: {max_}")
                 for i in range(max_, -1, -1):
                     if self.is_possible(i, freq):
                         two_cnt = (freq-3*i)//2
