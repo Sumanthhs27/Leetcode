@@ -2,16 +2,13 @@ class Solution:
     def maxSubArray(self, nums: List[int]) -> int:
         
         curr_sum = 0
-        for i in range(len(nums)):
-            nums[i] += curr_sum
-            curr_sum = nums[i]
-        
         mini = 0
         res = float("-inf")
 
         for i in nums:
-            curr_diff = i - mini
+            curr_sum += i
+            curr_diff = curr_sum - mini
             res = max(curr_diff, res)
-            mini = min(mini, i)
+            mini = min(mini, curr_sum)
         
         return res
