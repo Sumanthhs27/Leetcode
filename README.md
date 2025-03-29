@@ -296,6 +296,7 @@
 |  |
 | ------- |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Sumanthhs27/Leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
+| [1955-seat-reservation-manager](https://github.com/Sumanthhs27/Leetcode/tree/master/1955-seat-reservation-manager) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -305,6 +306,7 @@
 | ------- |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Sumanthhs27/Leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1184-car-pooling](https://github.com/Sumanthhs27/Leetcode/tree/master/1184-car-pooling) |
+| [1955-seat-reservation-manager](https://github.com/Sumanthhs27/Leetcode/tree/master/1955-seat-reservation-manager) |
 ## Data Stream
 |  |
 | ------- |
