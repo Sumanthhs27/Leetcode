@@ -25,7 +25,6 @@ class Solution:
 
             return maxi-mini
 
-        
         all_subs = generate_all_substrings(s)
         # print(all_subs)
         mp = {}
