@@ -107,6 +107,7 @@
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/Sumanthhs27/Leetcode/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Sumanthhs27/Leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Sumanthhs27/Leetcode/tree/master/2392-successful-pairs-of-spells-and-potions) |
+| [2572-append-characters-to-string-to-make-subsequence](https://github.com/Sumanthhs27/Leetcode/tree/master/2572-append-characters-to-string-to-make-subsequence) |
 | [3195-separate-black-and-white-balls](https://github.com/Sumanthhs27/Leetcode/tree/master/3195-separate-black-and-white-balls) |
 ## Binary Search
 |  |
@@ -178,6 +179,7 @@
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/Sumanthhs27/Leetcode/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2465-shifting-letters-ii](https://github.com/Sumanthhs27/Leetcode/tree/master/2465-shifting-letters-ii) |
 | [2470-removing-stars-from-a-string](https://github.com/Sumanthhs27/Leetcode/tree/master/2470-removing-stars-from-a-string) |
+| [2572-append-characters-to-string-to-make-subsequence](https://github.com/Sumanthhs27/Leetcode/tree/master/2572-append-characters-to-string-to-make-subsequence) |
 | [2580-circular-sentence](https://github.com/Sumanthhs27/Leetcode/tree/master/2580-circular-sentence) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Sumanthhs27/Leetcode/tree/master/2691-count-vowel-strings-in-ranges) |
 | [3055-maximum-odd-binary-number](https://github.com/Sumanthhs27/Leetcode/tree/master/3055-maximum-odd-binary-number) |
@@ -215,6 +217,7 @@
 | [0455-assign-cookies](https://github.com/Sumanthhs27/Leetcode/tree/master/0455-assign-cookies) |
 | [0680-valid-palindrome-ii](https://github.com/Sumanthhs27/Leetcode/tree/master/0680-valid-palindrome-ii) |
 | [0890-lemonade-change](https://github.com/Sumanthhs27/Leetcode/tree/master/0890-lemonade-change) |
+| [2572-append-characters-to-string-to-make-subsequence](https://github.com/Sumanthhs27/Leetcode/tree/master/2572-append-characters-to-string-to-make-subsequence) |
 | [3055-maximum-odd-binary-number](https://github.com/Sumanthhs27/Leetcode/tree/master/3055-maximum-odd-binary-number) |
 | [3094-minimum-number-of-operations-to-make-array-empty](https://github.com/Sumanthhs27/Leetcode/tree/master/3094-minimum-number-of-operations-to-make-array-empty) |
 | [3195-separate-black-and-white-balls](https://github.com/Sumanthhs27/Leetcode/tree/master/3195-separate-black-and-white-balls) |
