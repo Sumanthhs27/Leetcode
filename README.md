@@ -51,6 +51,7 @@
 | [0035-search-insert-position](https://github.com/Sumanthhs27/Leetcode/tree/master/0035-search-insert-position) |
 | [0049-group-anagrams](https://github.com/Sumanthhs27/Leetcode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/Sumanthhs27/Leetcode/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/Sumanthhs27/Leetcode/tree/master/0055-jump-game) |
 | [0073-set-matrix-zeroes](https://github.com/Sumanthhs27/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0078-subsets](https://github.com/Sumanthhs27/Leetcode/tree/master/0078-subsets) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Sumanthhs27/Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -206,6 +207,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/Sumanthhs27/Leetcode/tree/master/0055-jump-game) |
 | [0455-assign-cookies](https://github.com/Sumanthhs27/Leetcode/tree/master/0455-assign-cookies) |
 | [0680-valid-palindrome-ii](https://github.com/Sumanthhs27/Leetcode/tree/master/0680-valid-palindrome-ii) |
 | [0890-lemonade-change](https://github.com/Sumanthhs27/Leetcode/tree/master/0890-lemonade-change) |
@@ -216,6 +218,7 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Sumanthhs27/Leetcode/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/Sumanthhs27/Leetcode/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Sumanthhs27/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Sliding Window
 |  |
