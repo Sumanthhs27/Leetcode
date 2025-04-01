@@ -80,6 +80,7 @@
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/Sumanthhs27/Leetcode/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Sumanthhs27/Leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Sumanthhs27/Leetcode/tree/master/2392-successful-pairs-of-spells-and-potions) |
+| [2465-shifting-letters-ii](https://github.com/Sumanthhs27/Leetcode/tree/master/2465-shifting-letters-ii) |
 | [2685-first-completely-painted-row-or-column](https://github.com/Sumanthhs27/Leetcode/tree/master/2685-first-completely-painted-row-or-column) |
 | [3094-minimum-number-of-operations-to-make-array-empty](https://github.com/Sumanthhs27/Leetcode/tree/master/3094-minimum-number-of-operations-to-make-array-empty) |
 | [3176-minimum-sum-of-mountain-triplets-i](https://github.com/Sumanthhs27/Leetcode/tree/master/3176-minimum-sum-of-mountain-triplets-i) |
@@ -174,6 +175,7 @@
 | [1894-merge-strings-alternately](https://github.com/Sumanthhs27/Leetcode/tree/master/1894-merge-strings-alternately) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Sumanthhs27/Leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/Sumanthhs27/Leetcode/tree/master/2231-find-first-palindromic-string-in-the-array) |
+| [2465-shifting-letters-ii](https://github.com/Sumanthhs27/Leetcode/tree/master/2465-shifting-letters-ii) |
 | [2470-removing-stars-from-a-string](https://github.com/Sumanthhs27/Leetcode/tree/master/2470-removing-stars-from-a-string) |
 | [2580-circular-sentence](https://github.com/Sumanthhs27/Leetcode/tree/master/2580-circular-sentence) |
 | [3055-maximum-odd-binary-number](https://github.com/Sumanthhs27/Leetcode/tree/master/3055-maximum-odd-binary-number) |
@@ -283,6 +285,7 @@
 | [1184-car-pooling](https://github.com/Sumanthhs27/Leetcode/tree/master/1184-car-pooling) |
 | [1321-get-equal-substrings-within-budget](https://github.com/Sumanthhs27/Leetcode/tree/master/1321-get-equal-substrings-within-budget) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/Sumanthhs27/Leetcode/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
+| [2465-shifting-letters-ii](https://github.com/Sumanthhs27/Leetcode/tree/master/2465-shifting-letters-ii) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Sumanthhs27/Leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Tree
 |  |
