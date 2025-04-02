@@ -81,6 +81,7 @@
 | [2179-most-beautiful-item-for-each-query](https://github.com/Sumanthhs27/Leetcode/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2195-time-needed-to-buy-tickets](https://github.com/Sumanthhs27/Leetcode/tree/master/2195-time-needed-to-buy-tickets) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/Sumanthhs27/Leetcode/tree/master/2231-find-first-palindromic-string-in-the-array) |
+| [2232-adding-spaces-to-a-string](https://github.com/Sumanthhs27/Leetcode/tree/master/2232-adding-spaces-to-a-string) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Sumanthhs27/Leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Sumanthhs27/Leetcode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2465-shifting-letters-ii](https://github.com/Sumanthhs27/Leetcode/tree/master/2465-shifting-letters-ii) |
@@ -108,6 +109,7 @@
 | [0941-sort-array-by-parity](https://github.com/Sumanthhs27/Leetcode/tree/master/0941-sort-array-by-parity) |
 | [1894-merge-strings-alternately](https://github.com/Sumanthhs27/Leetcode/tree/master/1894-merge-strings-alternately) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/Sumanthhs27/Leetcode/tree/master/2231-find-first-palindromic-string-in-the-array) |
+| [2232-adding-spaces-to-a-string](https://github.com/Sumanthhs27/Leetcode/tree/master/2232-adding-spaces-to-a-string) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Sumanthhs27/Leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Sumanthhs27/Leetcode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/Sumanthhs27/Leetcode/tree/master/2572-append-characters-to-string-to-make-subsequence) |
@@ -183,6 +185,7 @@
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Sumanthhs27/Leetcode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Sumanthhs27/Leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/Sumanthhs27/Leetcode/tree/master/2231-find-first-palindromic-string-in-the-array) |
+| [2232-adding-spaces-to-a-string](https://github.com/Sumanthhs27/Leetcode/tree/master/2232-adding-spaces-to-a-string) |
 | [2465-shifting-letters-ii](https://github.com/Sumanthhs27/Leetcode/tree/master/2465-shifting-letters-ii) |
 | [2470-removing-stars-from-a-string](https://github.com/Sumanthhs27/Leetcode/tree/master/2470-removing-stars-from-a-string) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/Sumanthhs27/Leetcode/tree/master/2572-append-characters-to-string-to-make-subsequence) |
@@ -207,6 +210,7 @@
 | [0735-asteroid-collision](https://github.com/Sumanthhs27/Leetcode/tree/master/0735-asteroid-collision) |
 | [1184-car-pooling](https://github.com/Sumanthhs27/Leetcode/tree/master/1184-car-pooling) |
 | [2195-time-needed-to-buy-tickets](https://github.com/Sumanthhs27/Leetcode/tree/master/2195-time-needed-to-buy-tickets) |
+| [2232-adding-spaces-to-a-string](https://github.com/Sumanthhs27/Leetcode/tree/master/2232-adding-spaces-to-a-string) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Sumanthhs27/Leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2470-removing-stars-from-a-string](https://github.com/Sumanthhs27/Leetcode/tree/master/2470-removing-stars-from-a-string) |
 ## Math
