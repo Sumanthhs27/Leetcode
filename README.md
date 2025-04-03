@@ -75,6 +75,7 @@
 | [0907-koko-eating-bananas](https://github.com/Sumanthhs27/Leetcode/tree/master/0907-koko-eating-bananas) |
 | [0941-sort-array-by-parity](https://github.com/Sumanthhs27/Leetcode/tree/master/0941-sort-array-by-parity) |
 | [1184-car-pooling](https://github.com/Sumanthhs27/Leetcode/tree/master/1184-car-pooling) |
+| [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Sumanthhs27/Leetcode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/Sumanthhs27/Leetcode/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/Sumanthhs27/Leetcode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Sumanthhs27/Leetcode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
@@ -109,6 +110,7 @@
 | [0567-permutation-in-string](https://github.com/Sumanthhs27/Leetcode/tree/master/0567-permutation-in-string) |
 | [0680-valid-palindrome-ii](https://github.com/Sumanthhs27/Leetcode/tree/master/0680-valid-palindrome-ii) |
 | [0941-sort-array-by-parity](https://github.com/Sumanthhs27/Leetcode/tree/master/0941-sort-array-by-parity) |
+| [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Sumanthhs27/Leetcode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1894-merge-strings-alternately](https://github.com/Sumanthhs27/Leetcode/tree/master/1894-merge-strings-alternately) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/Sumanthhs27/Leetcode/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2232-adding-spaces-to-a-string](https://github.com/Sumanthhs27/Leetcode/tree/master/2232-adding-spaces-to-a-string) |
@@ -128,6 +130,7 @@
 | [0792-binary-search](https://github.com/Sumanthhs27/Leetcode/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/Sumanthhs27/Leetcode/tree/master/0907-koko-eating-bananas) |
 | [1321-get-equal-substrings-within-budget](https://github.com/Sumanthhs27/Leetcode/tree/master/1321-get-equal-substrings-within-budget) |
+| [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Sumanthhs27/Leetcode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/Sumanthhs27/Leetcode/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/Sumanthhs27/Leetcode/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Sumanthhs27/Leetcode/tree/master/2392-successful-pairs-of-spells-and-potions) |
@@ -165,6 +168,7 @@
 | [0883-car-fleet](https://github.com/Sumanthhs27/Leetcode/tree/master/0883-car-fleet) |
 | [0941-sort-array-by-parity](https://github.com/Sumanthhs27/Leetcode/tree/master/0941-sort-array-by-parity) |
 | [1184-car-pooling](https://github.com/Sumanthhs27/Leetcode/tree/master/1184-car-pooling) |
+| [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Sumanthhs27/Leetcode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/Sumanthhs27/Leetcode/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Sumanthhs27/Leetcode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Sumanthhs27/Leetcode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
