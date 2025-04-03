@@ -80,6 +80,7 @@
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/Sumanthhs27/Leetcode/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/Sumanthhs27/Leetcode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Sumanthhs27/Leetcode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
+| [2085-array-with-elements-not-equal-to-average-of-neighbors](https://github.com/Sumanthhs27/Leetcode/tree/master/2085-array-with-elements-not-equal-to-average-of-neighbors) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/Sumanthhs27/Leetcode/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2195-time-needed-to-buy-tickets](https://github.com/Sumanthhs27/Leetcode/tree/master/2195-time-needed-to-buy-tickets) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/Sumanthhs27/Leetcode/tree/master/2231-find-first-palindromic-string-in-the-array) |
@@ -170,6 +171,7 @@
 | [0941-sort-array-by-parity](https://github.com/Sumanthhs27/Leetcode/tree/master/0941-sort-array-by-parity) |
 | [1184-car-pooling](https://github.com/Sumanthhs27/Leetcode/tree/master/1184-car-pooling) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Sumanthhs27/Leetcode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
+| [2085-array-with-elements-not-equal-to-average-of-neighbors](https://github.com/Sumanthhs27/Leetcode/tree/master/2085-array-with-elements-not-equal-to-average-of-neighbors) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/Sumanthhs27/Leetcode/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Sumanthhs27/Leetcode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Sumanthhs27/Leetcode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
@@ -241,6 +243,7 @@
 | [0680-valid-palindrome-ii](https://github.com/Sumanthhs27/Leetcode/tree/master/0680-valid-palindrome-ii) |
 | [0890-lemonade-change](https://github.com/Sumanthhs27/Leetcode/tree/master/0890-lemonade-change) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Sumanthhs27/Leetcode/tree/master/1700-minimum-time-to-make-rope-colorful) |
+| [2085-array-with-elements-not-equal-to-average-of-neighbors](https://github.com/Sumanthhs27/Leetcode/tree/master/2085-array-with-elements-not-equal-to-average-of-neighbors) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/Sumanthhs27/Leetcode/tree/master/2572-append-characters-to-string-to-make-subsequence) |
 | [3055-maximum-odd-binary-number](https://github.com/Sumanthhs27/Leetcode/tree/master/3055-maximum-odd-binary-number) |
 | [3094-minimum-number-of-operations-to-make-array-empty](https://github.com/Sumanthhs27/Leetcode/tree/master/3094-minimum-number-of-operations-to-make-array-empty) |
