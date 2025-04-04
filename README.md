@@ -74,6 +74,7 @@
 | [0890-lemonade-change](https://github.com/Sumanthhs27/Leetcode/tree/master/0890-lemonade-change) |
 | [0907-koko-eating-bananas](https://github.com/Sumanthhs27/Leetcode/tree/master/0907-koko-eating-bananas) |
 | [0941-sort-array-by-parity](https://github.com/Sumanthhs27/Leetcode/tree/master/0941-sort-array-by-parity) |
+| [0985-bag-of-tokens](https://github.com/Sumanthhs27/Leetcode/tree/master/0985-bag-of-tokens) |
 | [1184-car-pooling](https://github.com/Sumanthhs27/Leetcode/tree/master/1184-car-pooling) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Sumanthhs27/Leetcode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Sumanthhs27/Leetcode/tree/master/1700-minimum-time-to-make-rope-colorful) |
@@ -113,6 +114,7 @@
 | [0567-permutation-in-string](https://github.com/Sumanthhs27/Leetcode/tree/master/0567-permutation-in-string) |
 | [0680-valid-palindrome-ii](https://github.com/Sumanthhs27/Leetcode/tree/master/0680-valid-palindrome-ii) |
 | [0941-sort-array-by-parity](https://github.com/Sumanthhs27/Leetcode/tree/master/0941-sort-array-by-parity) |
+| [0985-bag-of-tokens](https://github.com/Sumanthhs27/Leetcode/tree/master/0985-bag-of-tokens) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Sumanthhs27/Leetcode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1850-minimum-length-of-string-after-deleting-similar-ends](https://github.com/Sumanthhs27/Leetcode/tree/master/1850-minimum-length-of-string-after-deleting-similar-ends) |
 | [1894-merge-strings-alternately](https://github.com/Sumanthhs27/Leetcode/tree/master/1894-merge-strings-alternately) |
@@ -172,6 +174,7 @@
 | [0594-longest-harmonious-subsequence](https://github.com/Sumanthhs27/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0883-car-fleet](https://github.com/Sumanthhs27/Leetcode/tree/master/0883-car-fleet) |
 | [0941-sort-array-by-parity](https://github.com/Sumanthhs27/Leetcode/tree/master/0941-sort-array-by-parity) |
+| [0985-bag-of-tokens](https://github.com/Sumanthhs27/Leetcode/tree/master/0985-bag-of-tokens) |
 | [1184-car-pooling](https://github.com/Sumanthhs27/Leetcode/tree/master/1184-car-pooling) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Sumanthhs27/Leetcode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2085-array-with-elements-not-equal-to-average-of-neighbors](https://github.com/Sumanthhs27/Leetcode/tree/master/2085-array-with-elements-not-equal-to-average-of-neighbors) |
@@ -247,6 +250,7 @@
 | [0455-assign-cookies](https://github.com/Sumanthhs27/Leetcode/tree/master/0455-assign-cookies) |
 | [0680-valid-palindrome-ii](https://github.com/Sumanthhs27/Leetcode/tree/master/0680-valid-palindrome-ii) |
 | [0890-lemonade-change](https://github.com/Sumanthhs27/Leetcode/tree/master/0890-lemonade-change) |
+| [0985-bag-of-tokens](https://github.com/Sumanthhs27/Leetcode/tree/master/0985-bag-of-tokens) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Sumanthhs27/Leetcode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [2085-array-with-elements-not-equal-to-average-of-neighbors](https://github.com/Sumanthhs27/Leetcode/tree/master/2085-array-with-elements-not-equal-to-average-of-neighbors) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/Sumanthhs27/Leetcode/tree/master/2572-append-characters-to-string-to-make-subsequence) |
