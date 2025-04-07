@@ -96,6 +96,7 @@
 | [2465-shifting-letters-ii](https://github.com/Sumanthhs27/Leetcode/tree/master/2465-shifting-letters-ii) |
 | [2551-apply-operations-to-an-array](https://github.com/Sumanthhs27/Leetcode/tree/master/2551-apply-operations-to-an-array) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Sumanthhs27/Leetcode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
+| [2665-minimum-time-to-repair-cars](https://github.com/Sumanthhs27/Leetcode/tree/master/2665-minimum-time-to-repair-cars) |
 | [2685-first-completely-painted-row-or-column](https://github.com/Sumanthhs27/Leetcode/tree/master/2685-first-completely-painted-row-or-column) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Sumanthhs27/Leetcode/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Sumanthhs27/Leetcode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
@@ -148,6 +149,7 @@
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/Sumanthhs27/Leetcode/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/Sumanthhs27/Leetcode/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Sumanthhs27/Leetcode/tree/master/2392-successful-pairs-of-spells-and-potions) |
+| [2665-minimum-time-to-repair-cars](https://github.com/Sumanthhs27/Leetcode/tree/master/2665-minimum-time-to-repair-cars) |
 ## Hash Table
 |  |
 | ------- |
