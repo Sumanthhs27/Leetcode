@@ -100,6 +100,7 @@
 | [2665-minimum-time-to-repair-cars](https://github.com/Sumanthhs27/Leetcode/tree/master/2665-minimum-time-to-repair-cars) |
 | [2685-first-completely-painted-row-or-column](https://github.com/Sumanthhs27/Leetcode/tree/master/2685-first-completely-painted-row-or-column) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Sumanthhs27/Leetcode/tree/master/2691-count-vowel-strings-in-ranges) |
+| [2699-count-the-number-of-fair-pairs](https://github.com/Sumanthhs27/Leetcode/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Sumanthhs27/Leetcode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [3094-minimum-number-of-operations-to-make-array-empty](https://github.com/Sumanthhs27/Leetcode/tree/master/3094-minimum-number-of-operations-to-make-array-empty) |
 | [3176-minimum-sum-of-mountain-triplets-i](https://github.com/Sumanthhs27/Leetcode/tree/master/3176-minimum-sum-of-mountain-triplets-i) |
@@ -132,6 +133,7 @@
 | [2551-apply-operations-to-an-array](https://github.com/Sumanthhs27/Leetcode/tree/master/2551-apply-operations-to-an-array) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/Sumanthhs27/Leetcode/tree/master/2572-append-characters-to-string-to-make-subsequence) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Sumanthhs27/Leetcode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
+| [2699-count-the-number-of-fair-pairs](https://github.com/Sumanthhs27/Leetcode/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Sumanthhs27/Leetcode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [3195-separate-black-and-white-balls](https://github.com/Sumanthhs27/Leetcode/tree/master/3195-separate-black-and-white-balls) |
 ## Binary Search
@@ -152,6 +154,7 @@
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Sumanthhs27/Leetcode/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Sumanthhs27/Leetcode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2665-minimum-time-to-repair-cars](https://github.com/Sumanthhs27/Leetcode/tree/master/2665-minimum-time-to-repair-cars) |
+| [2699-count-the-number-of-fair-pairs](https://github.com/Sumanthhs27/Leetcode/tree/master/2699-count-the-number-of-fair-pairs) |
 ## Hash Table
 |  |
 | ------- |
@@ -194,6 +197,7 @@
 | [2179-most-beautiful-item-for-each-query](https://github.com/Sumanthhs27/Leetcode/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Sumanthhs27/Leetcode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Sumanthhs27/Leetcode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
+| [2699-count-the-number-of-fair-pairs](https://github.com/Sumanthhs27/Leetcode/tree/master/2699-count-the-number-of-fair-pairs) |
 ## String
 |  |
 | ------- |
