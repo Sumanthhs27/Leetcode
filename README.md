@@ -173,6 +173,7 @@
 | [0523-continuous-subarray-sum](https://github.com/Sumanthhs27/Leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0567-permutation-in-string](https://github.com/Sumanthhs27/Leetcode/tree/master/0567-permutation-in-string) |
 | [0594-longest-harmonious-subsequence](https://github.com/Sumanthhs27/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
+| [1557-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Sumanthhs27/Leetcode/tree/master/1557-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/Sumanthhs27/Leetcode/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/Sumanthhs27/Leetcode/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Sumanthhs27/Leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
@@ -219,6 +220,7 @@
 | [0812-rotate-string](https://github.com/Sumanthhs27/Leetcode/tree/master/0812-rotate-string) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/Sumanthhs27/Leetcode/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1321-get-equal-substrings-within-budget](https://github.com/Sumanthhs27/Leetcode/tree/master/1321-get-equal-substrings-within-budget) |
+| [1557-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Sumanthhs27/Leetcode/tree/master/1557-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1666-make-the-string-great](https://github.com/Sumanthhs27/Leetcode/tree/master/1666-make-the-string-great) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Sumanthhs27/Leetcode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Sumanthhs27/Leetcode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
@@ -340,6 +342,7 @@
 | ------- |
 | [0078-subsets](https://github.com/Sumanthhs27/Leetcode/tree/master/0078-subsets) |
 | [0187-repeated-dna-sequences](https://github.com/Sumanthhs27/Leetcode/tree/master/0187-repeated-dna-sequences) |
+| [1557-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Sumanthhs27/Leetcode/tree/master/1557-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Sumanthhs27/Leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Counting
 |  |
@@ -439,8 +442,10 @@
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/Sumanthhs27/Leetcode/tree/master/0187-repeated-dna-sequences) |
+| [1557-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Sumanthhs27/Leetcode/tree/master/1557-check-if-a-string-contains-all-binary-codes-of-size-k) |
 ## Hash Function
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/Sumanthhs27/Leetcode/tree/master/0187-repeated-dna-sequences) |
+| [1557-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Sumanthhs27/Leetcode/tree/master/1557-check-if-a-string-contains-all-binary-codes-of-size-k) |
 <!---LeetCode Topics End-->
