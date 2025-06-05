@@ -95,6 +95,7 @@
 | [2232-adding-spaces-to-a-string](https://github.com/Sumanthhs27/Leetcode/tree/master/2232-adding-spaces-to-a-string) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Sumanthhs27/Leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Sumanthhs27/Leetcode/tree/master/2392-successful-pairs-of-spells-and-potions) |
+| [2432-number-of-zero-filled-subarrays](https://github.com/Sumanthhs27/Leetcode/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2465-shifting-letters-ii](https://github.com/Sumanthhs27/Leetcode/tree/master/2465-shifting-letters-ii) |
 | [2551-apply-operations-to-an-array](https://github.com/Sumanthhs27/Leetcode/tree/master/2551-apply-operations-to-an-array) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Sumanthhs27/Leetcode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
@@ -268,6 +269,7 @@
 | [0150-evaluate-reverse-polish-notation](https://github.com/Sumanthhs27/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0441-arranging-coins](https://github.com/Sumanthhs27/Leetcode/tree/master/0441-arranging-coins) |
 | [0523-continuous-subarray-sum](https://github.com/Sumanthhs27/Leetcode/tree/master/0523-continuous-subarray-sum) |
+| [2432-number-of-zero-filled-subarrays](https://github.com/Sumanthhs27/Leetcode/tree/master/2432-number-of-zero-filled-subarrays) |
 | [3055-maximum-odd-binary-number](https://github.com/Sumanthhs27/Leetcode/tree/master/3055-maximum-odd-binary-number) |
 ## Greedy
 |  |
