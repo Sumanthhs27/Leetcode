@@ -86,6 +86,7 @@
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Sumanthhs27/Leetcode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/Sumanthhs27/Leetcode/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/Sumanthhs27/Leetcode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
+| [1787-sum-of-absolute-differences-in-a-sorted-array](https://github.com/Sumanthhs27/Leetcode/tree/master/1787-sum-of-absolute-differences-in-a-sorted-array) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/Sumanthhs27/Leetcode/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Sumanthhs27/Leetcode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2085-array-with-elements-not-equal-to-average-of-neighbors](https://github.com/Sumanthhs27/Leetcode/tree/master/2085-array-with-elements-not-equal-to-average-of-neighbors) |
@@ -273,6 +274,7 @@
 | [0150-evaluate-reverse-polish-notation](https://github.com/Sumanthhs27/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0441-arranging-coins](https://github.com/Sumanthhs27/Leetcode/tree/master/0441-arranging-coins) |
 | [0523-continuous-subarray-sum](https://github.com/Sumanthhs27/Leetcode/tree/master/0523-continuous-subarray-sum) |
+| [1787-sum-of-absolute-differences-in-a-sorted-array](https://github.com/Sumanthhs27/Leetcode/tree/master/1787-sum-of-absolute-differences-in-a-sorted-array) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/Sumanthhs27/Leetcode/tree/master/2432-number-of-zero-filled-subarrays) |
 | [3055-maximum-odd-binary-number](https://github.com/Sumanthhs27/Leetcode/tree/master/3055-maximum-odd-binary-number) |
 ## Greedy
@@ -365,6 +367,7 @@
 | [1184-car-pooling](https://github.com/Sumanthhs27/Leetcode/tree/master/1184-car-pooling) |
 | [1321-get-equal-substrings-within-budget](https://github.com/Sumanthhs27/Leetcode/tree/master/1321-get-equal-substrings-within-budget) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/Sumanthhs27/Leetcode/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
+| [1787-sum-of-absolute-differences-in-a-sorted-array](https://github.com/Sumanthhs27/Leetcode/tree/master/1787-sum-of-absolute-differences-in-a-sorted-array) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Sumanthhs27/Leetcode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2465-shifting-letters-ii](https://github.com/Sumanthhs27/Leetcode/tree/master/2465-shifting-letters-ii) |
 | [2576-minimum-penalty-for-a-shop](https://github.com/Sumanthhs27/Leetcode/tree/master/2576-minimum-penalty-for-a-shop) |
