@@ -78,6 +78,7 @@
 | [0890-lemonade-change](https://github.com/Sumanthhs27/Leetcode/tree/master/0890-lemonade-change) |
 | [0907-koko-eating-bananas](https://github.com/Sumanthhs27/Leetcode/tree/master/0907-koko-eating-bananas) |
 | [0941-sort-array-by-parity](https://github.com/Sumanthhs27/Leetcode/tree/master/0941-sort-array-by-parity) |
+| [0952-word-subsets](https://github.com/Sumanthhs27/Leetcode/tree/master/0952-word-subsets) |
 | [0985-bag-of-tokens](https://github.com/Sumanthhs27/Leetcode/tree/master/0985-bag-of-tokens) |
 | [1184-car-pooling](https://github.com/Sumanthhs27/Leetcode/tree/master/1184-car-pooling) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/Sumanthhs27/Leetcode/tree/master/1335-maximum-candies-allocated-to-k-children) |
@@ -174,6 +175,7 @@
 | [0523-continuous-subarray-sum](https://github.com/Sumanthhs27/Leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0567-permutation-in-string](https://github.com/Sumanthhs27/Leetcode/tree/master/0567-permutation-in-string) |
 | [0594-longest-harmonious-subsequence](https://github.com/Sumanthhs27/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
+| [0952-word-subsets](https://github.com/Sumanthhs27/Leetcode/tree/master/0952-word-subsets) |
 | [1557-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Sumanthhs27/Leetcode/tree/master/1557-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/Sumanthhs27/Leetcode/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/Sumanthhs27/Leetcode/tree/master/1890-sum-of-beauty-of-all-substrings) |
@@ -219,6 +221,7 @@
 | [0567-permutation-in-string](https://github.com/Sumanthhs27/Leetcode/tree/master/0567-permutation-in-string) |
 | [0680-valid-palindrome-ii](https://github.com/Sumanthhs27/Leetcode/tree/master/0680-valid-palindrome-ii) |
 | [0812-rotate-string](https://github.com/Sumanthhs27/Leetcode/tree/master/0812-rotate-string) |
+| [0952-word-subsets](https://github.com/Sumanthhs27/Leetcode/tree/master/0952-word-subsets) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/Sumanthhs27/Leetcode/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1321-get-equal-substrings-within-budget](https://github.com/Sumanthhs27/Leetcode/tree/master/1321-get-equal-substrings-within-budget) |
 | [1557-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Sumanthhs27/Leetcode/tree/master/1557-check-if-a-string-contains-all-binary-codes-of-size-k) |
