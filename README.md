@@ -112,6 +112,7 @@
 | [3176-minimum-sum-of-mountain-triplets-i](https://github.com/Sumanthhs27/Leetcode/tree/master/3176-minimum-sum-of-mountain-triplets-i) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/Sumanthhs27/Leetcode/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Sumanthhs27/Leetcode/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
+| [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Sumanthhs27/Leetcode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Sumanthhs27/Leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Two Pointers
 |  |
@@ -187,6 +188,7 @@
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Sumanthhs27/Leetcode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [3094-minimum-number-of-operations-to-make-array-empty](https://github.com/Sumanthhs27/Leetcode/tree/master/3094-minimum-number-of-operations-to-make-array-empty) |
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Sumanthhs27/Leetcode/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
+| [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Sumanthhs27/Leetcode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 ## Sorting
 |  |
 | ------- |
@@ -248,10 +250,12 @@
 | [3055-maximum-odd-binary-number](https://github.com/Sumanthhs27/Leetcode/tree/master/3055-maximum-odd-binary-number) |
 | [3174-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/Sumanthhs27/Leetcode/tree/master/3174-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3195-separate-black-and-white-balls](https://github.com/Sumanthhs27/Leetcode/tree/master/3195-separate-black-and-white-balls) |
+| [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Sumanthhs27/Leetcode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 ## Trie
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Sumanthhs27/Leetcode/tree/master/0014-longest-common-prefix) |
+| [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Sumanthhs27/Leetcode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 ## Queue
 |  |
 | ------- |
