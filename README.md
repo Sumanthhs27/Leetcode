@@ -81,6 +81,7 @@
 | [0952-word-subsets](https://github.com/Sumanthhs27/Leetcode/tree/master/0952-word-subsets) |
 | [0985-bag-of-tokens](https://github.com/Sumanthhs27/Leetcode/tree/master/0985-bag-of-tokens) |
 | [1184-car-pooling](https://github.com/Sumanthhs27/Leetcode/tree/master/1184-car-pooling) |
+| [1333-sort-the-jumbled-numbers](https://github.com/Sumanthhs27/Leetcode/tree/master/1333-sort-the-jumbled-numbers) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/Sumanthhs27/Leetcode/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Sumanthhs27/Leetcode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Sumanthhs27/Leetcode/tree/master/1700-minimum-time-to-make-rope-colorful) |
@@ -204,6 +205,7 @@
 | [0941-sort-array-by-parity](https://github.com/Sumanthhs27/Leetcode/tree/master/0941-sort-array-by-parity) |
 | [0985-bag-of-tokens](https://github.com/Sumanthhs27/Leetcode/tree/master/0985-bag-of-tokens) |
 | [1184-car-pooling](https://github.com/Sumanthhs27/Leetcode/tree/master/1184-car-pooling) |
+| [1333-sort-the-jumbled-numbers](https://github.com/Sumanthhs27/Leetcode/tree/master/1333-sort-the-jumbled-numbers) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Sumanthhs27/Leetcode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2085-array-with-elements-not-equal-to-average-of-neighbors](https://github.com/Sumanthhs27/Leetcode/tree/master/2085-array-with-elements-not-equal-to-average-of-neighbors) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/Sumanthhs27/Leetcode/tree/master/2179-most-beautiful-item-for-each-query) |
