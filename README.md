@@ -84,6 +84,7 @@
 | [1184-car-pooling](https://github.com/Sumanthhs27/Leetcode/tree/master/1184-car-pooling) |
 | [1333-sort-the-jumbled-numbers](https://github.com/Sumanthhs27/Leetcode/tree/master/1333-sort-the-jumbled-numbers) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/Sumanthhs27/Leetcode/tree/master/1335-maximum-candies-allocated-to-k-children) |
+| [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/Sumanthhs27/Leetcode/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Sumanthhs27/Leetcode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Sumanthhs27/Leetcode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/Sumanthhs27/Leetcode/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
@@ -266,6 +267,7 @@
 ## Queue
 |  |
 | ------- |
+| [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/Sumanthhs27/Leetcode/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [2195-time-needed-to-buy-tickets](https://github.com/Sumanthhs27/Leetcode/tree/master/2195-time-needed-to-buy-tickets) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Sumanthhs27/Leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Simulation
@@ -324,6 +326,7 @@
 | [0567-permutation-in-string](https://github.com/Sumanthhs27/Leetcode/tree/master/0567-permutation-in-string) |
 | [0594-longest-harmonious-subsequence](https://github.com/Sumanthhs27/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [1321-get-equal-substrings-within-budget](https://github.com/Sumanthhs27/Leetcode/tree/master/1321-get-equal-substrings-within-budget) |
+| [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/Sumanthhs27/Leetcode/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/Sumanthhs27/Leetcode/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/Sumanthhs27/Leetcode/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Sumanthhs27/Leetcode/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -443,6 +446,7 @@
 | [0347-top-k-frequent-elements](https://github.com/Sumanthhs27/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Sumanthhs27/Leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1184-car-pooling](https://github.com/Sumanthhs27/Leetcode/tree/master/1184-car-pooling) |
+| [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/Sumanthhs27/Leetcode/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1955-seat-reservation-manager](https://github.com/Sumanthhs27/Leetcode/tree/master/1955-seat-reservation-manager) |
 ## Data Stream
 |  |
@@ -480,4 +484,12 @@
 |  |
 | ------- |
 | [0164-maximum-gap](https://github.com/Sumanthhs27/Leetcode/tree/master/0164-maximum-gap) |
+## Ordered Set
+|  |
+| ------- |
+| [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/Sumanthhs27/Leetcode/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
+## Monotonic Queue
+|  |
+| ------- |
+| [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/Sumanthhs27/Leetcode/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 <!---LeetCode Topics End-->
